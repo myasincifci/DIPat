@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/mlruns/0/0009a766cc224e7d8908297d4e742013/artifacts
+end_time: 1694172383332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0009a766cc224e7d8908297d4e742013
+run_name: capable-auk-759
+run_uuid: 0009a766cc224e7d8908297d4e742013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694171915356
+status: 3
+tags: []
+user_id: yasin
