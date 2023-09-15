@@ -61,7 +61,7 @@ def train_one_epoch(model, train_loader, grouper, optimizer, criterion, device):
             log_metric("train_loss", loss.item(), i)
 
 def main():
-    random.seed(42)
+    # random.seed(42)
     np.random.seed(42)
     torch.manual_seed(42)
 
