@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/18f6238ea16f4baf879294c1fab476cf/artifacts
+end_time: 1695150169925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18f6238ea16f4baf879294c1fab476cf
+run_name: marvelous-crab-792
+run_uuid: 18f6238ea16f4baf879294c1fab476cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695149832801
+status: 3
+tags: []
+user_id: yasin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/bb5287e86b944a29af24773aece713df/artifacts
+end_time: 1695117226143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb5287e86b944a29af24773aece713df
+run_name: classy-roo-295
+run_uuid: bb5287e86b944a29af24773aece713df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695116301839
+status: 3
+tags: []
+user_id: yasin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/ff249f8d3e3446ac97b084cb2b4c9970/artifacts
+end_time: 1695149486182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff249f8d3e3446ac97b084cb2b4c9970
+run_name: hilarious-auk-633
+run_uuid: ff249f8d3e3446ac97b084cb2b4c9970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695149474447
+status: 3
+tags: []
+user_id: yasin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/5377525ab1ca44e99e9cb2775f38ea5c/artifacts
+end_time: 1695123992312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5377525ab1ca44e99e9cb2775f38ea5c
+run_name: whimsical-kit-325
+run_uuid: 5377525ab1ca44e99e9cb2775f38ea5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695122943088
+status: 3
+tags: []
+user_id: yasin

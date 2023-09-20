@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/67386bfdf90d47a299bc7f3399dbd2f2/artifacts
+end_time: 1695120121261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67386bfdf90d47a299bc7f3399dbd2f2
+run_name: languid-hound-787
+run_uuid: 67386bfdf90d47a299bc7f3399dbd2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695119699563
+status: 3
+tags: []
+user_id: yasin

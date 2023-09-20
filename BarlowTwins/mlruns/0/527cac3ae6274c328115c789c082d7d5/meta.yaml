@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/527cac3ae6274c328115c789c082d7d5/artifacts
+end_time: 1694935647300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 527cac3ae6274c328115c789c082d7d5
+run_name: sedate-snail-1000
+run_uuid: 527cac3ae6274c328115c789c082d7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694934905770
+status: 3
+tags: []
+user_id: yasin

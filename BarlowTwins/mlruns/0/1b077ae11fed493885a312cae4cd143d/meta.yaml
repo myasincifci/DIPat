@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/1b077ae11fed493885a312cae4cd143d/artifacts
+end_time: 1695149198970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b077ae11fed493885a312cae4cd143d
+run_name: dazzling-cow-128
+run_uuid: 1b077ae11fed493885a312cae4cd143d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695146095919
+status: 3
+tags: []
+user_id: yasin

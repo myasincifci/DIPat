@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/6256cda7dee84820b27ac80039ecc952/artifacts
+end_time: 1695149820410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6256cda7dee84820b27ac80039ecc952
+run_name: able-wren-92
+run_uuid: 6256cda7dee84820b27ac80039ecc952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695149785538
+status: 3
+tags: []
+user_id: yasin

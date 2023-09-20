@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/7036db00be3040fdbf0089d7316759b2/artifacts
+end_time: 1695118030988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7036db00be3040fdbf0089d7316759b2
+run_name: wise-tern-162
+run_uuid: 7036db00be3040fdbf0089d7316759b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695117848867
+status: 3
+tags: []
+user_id: yasin

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/78f01797ff6446de953f514bbd28760f/artifacts
+deleted_time: 1694798181743
+end_time: 1694798078682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 78f01797ff6446de953f514bbd28760f
+run_name: big-loon-379
+run_uuid: 78f01797ff6446de953f514bbd28760f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694798065394
+status: 3
+tags: []
+user_id: yasin

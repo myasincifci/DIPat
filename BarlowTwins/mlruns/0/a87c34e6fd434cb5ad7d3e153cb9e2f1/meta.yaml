@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/a87c34e6fd434cb5ad7d3e153cb9e2f1/artifacts
+deleted_time: 1694798505085
+end_time: 1694798378661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a87c34e6fd434cb5ad7d3e153cb9e2f1
+run_name: casual-shrew-781
+run_uuid: a87c34e6fd434cb5ad7d3e153cb9e2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694798095192
+status: 3
+tags: []
+user_id: yasin

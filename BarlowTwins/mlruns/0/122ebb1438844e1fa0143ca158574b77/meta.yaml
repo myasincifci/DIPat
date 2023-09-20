@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/122ebb1438844e1fa0143ca158574b77/artifacts
+deleted_time: 1694789059390
+end_time: 1694789043691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 122ebb1438844e1fa0143ca158574b77
+run_name: selective-trout-502
+run_uuid: 122ebb1438844e1fa0143ca158574b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694788969457
+status: 3
+tags: []
+user_id: yasin

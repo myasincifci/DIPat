@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/32fa20f19a684e6ea47c972d8ad4edb2/artifacts
+deleted_time: 1694789017994
+end_time: 1694788951601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 32fa20f19a684e6ea47c972d8ad4edb2
+run_name: dazzling-steed-33
+run_uuid: 32fa20f19a684e6ea47c972d8ad4edb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694788947454
+status: 3
+tags: []
+user_id: yasin

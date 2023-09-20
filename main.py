@@ -8,7 +8,7 @@ import torch
 import torchvision.transforms as T
 from torch import nn
 from torch.utils.data.dataloader import DataLoader
-from torchvision.models.resnet import resnet34
+from torchvision.models.resnet import resnet34, resnet50
 from tqdm import tqdm
 from wilds import get_dataset
 from wilds.common.data_loaders import get_eval_loader, get_train_loader
@@ -26,7 +26,7 @@ def validate(model: nn.Module, val_loader: DataLoader, device: str) -> float:
         for x, t, _ in tqdm(val_loader):
             x, t = x.to(device), t.to(device)
 
-            y, d = model(x)
+            y = model(x)
             correct += (t == y.argmax(axis=1)).sum().item()
 
         return correct/num_samples_val
@@ -42,22 +42,26 @@ def train_one_epoch(model, train_loader, grouper, optimizer, criterion, device):
 
             optimizer.zero_grad()
 
-            y, d = model(x)
-            loss_clsf = criterion(y, t)
-            loss_crit = crit_crit(d, z)
-            loss = loss_clsf + loss_crit
+            # y, d = model(x)
+            # loss_clsf = criterion(y, t)
+            # loss_crit = crit_crit(d, z)
+            # loss = loss_clsf + loss_crit
+
+            y = model(x)
+
+            loss = criterion(y, t)
 
             loss.backward()
             
             optimizer.step()
 
             batch_accuracy = (y.argmax(axis=1) == t).sum().item()/len(t)
-            batch_dom_accuracy = (d.argmax(axis=1) == z).sum().item()/len(t)
+            # batch_dom_accuracy = (d.argmax(axis=1) == z).sum().item()/len(t)
 
-            pbar.set_description(f"Cl.-acc.: {batch_accuracy:.4f}, Dom.-acc.: {batch_dom_accuracy}")
+            pbar.set_description(f"Cl.-acc.: {batch_accuracy:.4f}, Dom.-acc.: {batch_accuracy}")
 
-            log_metric("clsf_loss", loss_clsf.item(), i)
-            log_metric("crit_loss", loss_crit.item(), i)
+            # log_metric("clsf_loss", loss_clsf.item(), i)
+            # log_metric("crit_loss", loss_crit.item(), i)
             log_metric("train_loss", loss.item(), i)
 
 def main():
@@ -68,7 +72,7 @@ def main():
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
     dataset = get_dataset(dataset="camelyon17",
-                          download=True, root_dir="../data")
+                          download=True, root_dir="../../data")
 
     grouper = CombinatorialGrouper(dataset, ['hospital'])
 
@@ -80,6 +84,7 @@ def main():
                 T.ToTensor(),
             ]
         ),
+        # frac=0.1
     )
 
     val_data = dataset.get_subset(
@@ -93,13 +98,16 @@ def main():
 
     # Prepare the standard data loader
     train_loader = get_train_loader(
-        "group", train_data, batch_size=3*395, grouper=grouper, n_groups_per_batch=3)
+        "group", train_data, batch_size=210, grouper=grouper, n_groups_per_batch=3)
 
-    model = DANN()
-    model.to(device)
+    # model = DANN()
+    # model.to(device)
+    model = resnet50(weights=torch.load("./model_best.pth"))
+    model.fc = nn.Linear(2048, 2)
+    model.cuda()
 
-    optimizer = torch.optim.AdamW(
-        params=model.parameters(), lr=4e-4)
+    parameters = list(model.layer4.parameters()) + list(model.fc.parameters())
+    optimizer = torch.optim.AdamW(params=parameters, lr=4e-4)
 
     # optimizer = torch.optim.SGD(model.parameters(), lr=1e-2, momentum=1e-3, weight_decay=1e-3)
 

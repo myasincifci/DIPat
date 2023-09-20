@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/c6cb415c0fd2488d9096c30c33c61944/artifacts
+deleted_time: 1694793639823
+end_time: 1694793533820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c6cb415c0fd2488d9096c30c33c61944
+run_name: efficient-sow-396
+run_uuid: c6cb415c0fd2488d9096c30c33c61944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694791968251
+status: 3
+tags: []
+user_id: yasin

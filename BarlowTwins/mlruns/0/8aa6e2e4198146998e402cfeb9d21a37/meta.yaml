@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/8aa6e2e4198146998e402cfeb9d21a37/artifacts
+end_time: 1695150547028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa6e2e4198146998e402cfeb9d21a37
+run_name: puzzled-hound-272
+run_uuid: 8aa6e2e4198146998e402cfeb9d21a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695150339124
+status: 3
+tags: []
+user_id: yasin

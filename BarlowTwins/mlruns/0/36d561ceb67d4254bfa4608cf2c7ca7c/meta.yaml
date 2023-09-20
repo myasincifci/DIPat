@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/36d561ceb67d4254bfa4608cf2c7ca7c/artifacts
+end_time: 1695143428854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36d561ceb67d4254bfa4608cf2c7ca7c
+run_name: blushing-frog-928
+run_uuid: 36d561ceb67d4254bfa4608cf2c7ca7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695143369366
+status: 3
+tags: []
+user_id: yasin

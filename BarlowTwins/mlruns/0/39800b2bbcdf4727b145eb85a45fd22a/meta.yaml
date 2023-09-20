@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/39800b2bbcdf4727b145eb85a45fd22a/artifacts
+end_time: 1695150318685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39800b2bbcdf4727b145eb85a45fd22a
+run_name: judicious-carp-123
+run_uuid: 39800b2bbcdf4727b145eb85a45fd22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695150180223
+status: 3
+tags: []
+user_id: yasin

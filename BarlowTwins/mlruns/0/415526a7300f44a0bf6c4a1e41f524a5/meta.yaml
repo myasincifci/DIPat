@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/415526a7300f44a0bf6c4a1e41f524a5/artifacts
+end_time: 1695149648057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 415526a7300f44a0bf6c4a1e41f524a5
+run_name: skillful-chimp-713
+run_uuid: 415526a7300f44a0bf6c4a1e41f524a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695149500823
+status: 3
+tags: []
+user_id: yasin

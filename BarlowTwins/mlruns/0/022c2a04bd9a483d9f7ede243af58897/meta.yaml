@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/022c2a04bd9a483d9f7ede243af58897/artifacts
+end_time: 1695155401248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 022c2a04bd9a483d9f7ede243af58897
+run_name: adventurous-gnu-309
+run_uuid: 022c2a04bd9a483d9f7ede243af58897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695155378566
+status: 3
+tags: []
+user_id: yasin

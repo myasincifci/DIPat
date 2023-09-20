@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/2d730d3619b74f3da0763fd362b36443/artifacts
+end_time: 1695125430287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d730d3619b74f3da0763fd362b36443
+run_name: incongruous-rook-793
+run_uuid: 2d730d3619b74f3da0763fd362b36443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695125219759
+status: 3
+tags: []
+user_id: yasin

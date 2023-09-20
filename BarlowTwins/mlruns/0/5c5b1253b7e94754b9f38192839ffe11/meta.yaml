@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/5c5b1253b7e94754b9f38192839ffe11/artifacts
+end_time: 1695149345635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c5b1253b7e94754b9f38192839ffe11
+run_name: sedate-wren-901
+run_uuid: 5c5b1253b7e94754b9f38192839ffe11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695149342332
+status: 3
+tags: []
+user_id: yasin

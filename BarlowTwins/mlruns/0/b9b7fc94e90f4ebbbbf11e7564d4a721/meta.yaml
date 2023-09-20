@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/b9b7fc94e90f4ebbbbf11e7564d4a721/artifacts
+deleted_time: 1694798181743
+end_time: 1694796835770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9b7fc94e90f4ebbbbf11e7564d4a721
+run_name: unequaled-deer-863
+run_uuid: b9b7fc94e90f4ebbbbf11e7564d4a721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694796720841
+status: 3
+tags: []
+user_id: yasin

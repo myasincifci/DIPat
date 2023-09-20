@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/d07286e46a8545d79823ec6d72e81843/artifacts
+end_time: 1695117841752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07286e46a8545d79823ec6d72e81843
+run_name: fortunate-ram-350
+run_uuid: d07286e46a8545d79823ec6d72e81843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695117344315
+status: 3
+tags: []
+user_id: yasin

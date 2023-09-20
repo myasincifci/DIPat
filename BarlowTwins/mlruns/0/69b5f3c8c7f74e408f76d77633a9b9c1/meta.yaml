@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/69b5f3c8c7f74e408f76d77633a9b9c1/artifacts
+end_time: 1695119658471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69b5f3c8c7f74e408f76d77633a9b9c1
+run_name: classy-squid-331
+run_uuid: 69b5f3c8c7f74e408f76d77633a9b9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695119550770
+status: 3
+tags: []
+user_id: yasin

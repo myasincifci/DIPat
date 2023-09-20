@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/4d4aa240a3ad48dfaae214b0251db027/artifacts
+end_time: 1695125206643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d4aa240a3ad48dfaae214b0251db027
+run_name: capable-gnu-585
+run_uuid: 4d4aa240a3ad48dfaae214b0251db027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695124784202
+status: 3
+tags: []
+user_id: yasin

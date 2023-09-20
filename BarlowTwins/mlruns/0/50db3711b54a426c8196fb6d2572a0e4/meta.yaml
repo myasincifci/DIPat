@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/50db3711b54a426c8196fb6d2572a0e4/artifacts
+end_time: 1695128935665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50db3711b54a426c8196fb6d2572a0e4
+run_name: agreeable-ray-7
+run_uuid: 50db3711b54a426c8196fb6d2572a0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695128623179
+status: 3
+tags: []
+user_id: yasin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/974b1518502445b492c6c19026171eb7/artifacts
+end_time: 1695118679456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 974b1518502445b492c6c19026171eb7
+run_name: adaptable-perch-76
+run_uuid: 974b1518502445b492c6c19026171eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695118489309
+status: 3
+tags: []
+user_id: yasin

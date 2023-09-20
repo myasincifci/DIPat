@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/4503d0c10cd14eb793be649ada8b2cf1/artifacts
+end_time: 1695155966116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4503d0c10cd14eb793be649ada8b2cf1
+run_name: bold-ape-81
+run_uuid: 4503d0c10cd14eb793be649ada8b2cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695155407488
+status: 3
+tags: []
+user_id: yasin

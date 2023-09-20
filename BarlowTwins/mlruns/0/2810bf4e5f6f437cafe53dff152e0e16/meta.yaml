@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/2810bf4e5f6f437cafe53dff152e0e16/artifacts
+end_time: 1695125448626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2810bf4e5f6f437cafe53dff152e0e16
+run_name: invincible-quail-932
+run_uuid: 2810bf4e5f6f437cafe53dff152e0e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695125445215
+status: 3
+tags: []
+user_id: yasin

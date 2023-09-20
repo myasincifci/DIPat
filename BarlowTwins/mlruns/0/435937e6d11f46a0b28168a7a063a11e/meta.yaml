@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/435937e6d11f46a0b28168a7a063a11e/artifacts
+end_time: 1695126047605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435937e6d11f46a0b28168a7a063a11e
+run_name: casual-turtle-508
+run_uuid: 435937e6d11f46a0b28168a7a063a11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695125532393
+status: 3
+tags: []
+user_id: yasin

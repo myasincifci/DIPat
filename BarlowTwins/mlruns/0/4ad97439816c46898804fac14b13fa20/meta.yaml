@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/4ad97439816c46898804fac14b13fa20/artifacts
+end_time: 1694796008054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ad97439816c46898804fac14b13fa20
+run_name: dapper-wolf-503
+run_uuid: 4ad97439816c46898804fac14b13fa20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694793663042
+status: 3
+tags: []
+user_id: yasin

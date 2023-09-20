@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/4b763722a8f34344ba4ad23325d45e18/artifacts
+end_time: 1695124770324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b763722a8f34344ba4ad23325d45e18
+run_name: wistful-shrike-70
+run_uuid: 4b763722a8f34344ba4ad23325d45e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695124770251
+status: 3
+tags: []
+user_id: yasin

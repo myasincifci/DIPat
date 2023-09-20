@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/16350036a0a74be59c4e8d7592bd50c4/artifacts
+end_time: 1695192599507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16350036a0a74be59c4e8d7592bd50c4
+run_name: resilient-croc-622
+run_uuid: 16350036a0a74be59c4e8d7592bd50c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695192035923
+status: 3
+tags: []
+user_id: yasin

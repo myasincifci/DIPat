@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/7b88ab35d6684b34ad88119b7556f20a/artifacts
+deleted_time: 1694798550797
+end_time: 1694798548488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7b88ab35d6684b34ad88119b7556f20a
+run_name: loud-fox-147
+run_uuid: 7b88ab35d6684b34ad88119b7556f20a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694798515106
+status: 3
+tags: []
+user_id: yasin

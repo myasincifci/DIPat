@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/2a6729e0085549d8ad01ef7d10f2698b/artifacts
+end_time: 1695195329865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a6729e0085549d8ad01ef7d10f2698b
+run_name: amazing-ram-491
+run_uuid: 2a6729e0085549d8ad01ef7d10f2698b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695194781611
+status: 3
+tags: []
+user_id: yasin

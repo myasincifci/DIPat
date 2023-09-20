@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/099daf94f0bd48dab179634e0778cfad/artifacts
+end_time: 1695119535486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 099daf94f0bd48dab179634e0778cfad
+run_name: upbeat-newt-704
+run_uuid: 099daf94f0bd48dab179634e0778cfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695119389771
+status: 3
+tags: []
+user_id: yasin

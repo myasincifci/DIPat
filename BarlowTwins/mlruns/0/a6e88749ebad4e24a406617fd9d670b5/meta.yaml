@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/a6e88749ebad4e24a406617fd9d670b5/artifacts
+end_time: 1695128951729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e88749ebad4e24a406617fd9d670b5
+run_name: stately-tern-382
+run_uuid: a6e88749ebad4e24a406617fd9d670b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695128943994
+status: 3
+tags: []
+user_id: yasin

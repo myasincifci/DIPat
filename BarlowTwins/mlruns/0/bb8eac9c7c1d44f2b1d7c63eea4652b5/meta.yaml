@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/bb8eac9c7c1d44f2b1d7c63eea4652b5/artifacts
+deleted_time: 1694798181744
+end_time: 1694797993779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bb8eac9c7c1d44f2b1d7c63eea4652b5
+run_name: delicate-shad-704
+run_uuid: bb8eac9c7c1d44f2b1d7c63eea4652b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694797964628
+status: 3
+tags: []
+user_id: yasin

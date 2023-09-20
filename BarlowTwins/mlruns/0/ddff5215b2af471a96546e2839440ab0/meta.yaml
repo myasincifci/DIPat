@@ -1,0 +1,16 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/ddff5215b2af471a96546e2839440ab0/artifacts
+deleted_time: 1694798181744
+end_time: 1694797121052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ddff5215b2af471a96546e2839440ab0
+run_name: mercurial-shoat-689
+run_uuid: ddff5215b2af471a96546e2839440ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694797086397
+status: 3
+tags: []
+user_id: yasin

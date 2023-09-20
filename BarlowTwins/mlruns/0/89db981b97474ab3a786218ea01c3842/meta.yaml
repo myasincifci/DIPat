@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/notebooks/DIPat/BarlowTwins/mlruns/0/89db981b97474ab3a786218ea01c3842/artifacts
+end_time: 1695133676149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89db981b97474ab3a786218ea01c3842
+run_name: dashing-fish-23
+run_uuid: 89db981b97474ab3a786218ea01c3842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695129826435
+status: 3
+tags: []
+user_id: yasin
